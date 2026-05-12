@@ -188,10 +188,14 @@ static void MX_GPIO_Init(void)
 ## OUTPUT
 
 
-![Uploading image.png…]()
+<img width="1521" height="855" alt="image" src="https://github.com/user-attachments/assets/bea4e644-45c4-4308-8982-b8e0c9a592dd" />
+
+ 
 
 
-![Uploading image.png…]()
+<img width="1506" height="843" alt="image" src="https://github.com/user-attachments/assets/a4f52252-f18b-45be-8d27-a10b65d36f72" />
+
+
 
 ## Result
 
